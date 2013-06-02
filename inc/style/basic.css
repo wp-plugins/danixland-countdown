@@ -1,0 +1,67 @@
+@font-face {
+
+    font-family: digit;
+
+    src: local(digit), url('digital.ttf') format('opentype');
+}
+
+.dnx-countdown {
+	font: 400 6em 'digit', sans-serif;
+}
+.dnx-countdown a {
+	text-decoration: none;
+}
+.dnx-days {
+	font-size: 3em;
+	font-weight: 400;
+}
+.dnx-warning a {
+	text-decoration: none;
+	display: block;
+	margin: 4px auto 0;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: #ffffff;
+	padding: 5px 7px;
+	background: -moz-linear-gradient(
+		top,
+		#ff5454 0%,
+		#960000);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#ff5454),
+		to(#960000));
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #470000;
+	-moz-box-shadow:
+		0px 2px 6px rgba(000,000,000,0.5),
+		inset 0px 1px 1px rgba(255,255,255,0.5);
+	-webkit-box-shadow:
+		0px 2px 6px rgba(000,000,000,0.5),
+		inset 0px 1px 1px rgba(255,255,255,0.5);
+	box-shadow:
+		0px 2px 6px rgba(000,000,000,0.5),
+		inset 0px 1px 1px rgba(255,255,255,0.5);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.7),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+.dnx-warning a:hover,
+.dnx-warning a:active {
+	text-decoration: none;
+	background: -moz-linear-gradient(
+		bottom,
+		#ff5454 0%,
+		#960000);
+	background: -webkit-gradient(
+		linear, left bottom, left top, 
+		from(#ff5454),
+		to(#960000));
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}

@@ -1,0 +1,83 @@
+# Copyright (C) 2013 danixland CountDown
+# This file is distributed under the same license as the danixland CountDown package.
+msgid ""
+msgstr ""
+"Project-Id-Version: danixland CountDown 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/danixland-countdown\n"
+"POT-Creation-Date: 2013-05-27 11:26:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: danixland-countdown.php:112
+msgid "Use this widget to add a simple Count Down to your Sidebar"
+msgstr ""
+
+#. #-#-#-#-#  dnxcd.pot (danixland CountDown 0.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: danixland-countdown.php:118
+msgid "danixland CountDown"
+msgstr ""
+
+#: danixland-countdown.php:150
+msgid "days to go"
+msgstr ""
+
+#: danixland-countdown.php:152
+msgid "configure widget"
+msgstr ""
+
+#: danixland-countdown.php:152
+msgid "the date is missing<br />configure widget"
+msgstr ""
+
+#: danixland-countdown.php:182
+msgid "Count Down"
+msgstr ""
+
+#: danixland-countdown.php:192
+msgid "Widget's Title."
+msgstr ""
+
+#: danixland-countdown.php:194
+msgid "Title:"
+msgstr ""
+
+#: danixland-countdown.php:197
+msgid "Here you can set the Options for the Widget."
+msgstr ""
+
+#: danixland-countdown.php:199
+msgid "Future Date (dd-mm-yyyy):"
+msgstr ""
+
+#: danixland-countdown.php:202
+msgid "Link (only http/https allowed):"
+msgstr ""
+
+#: danixland-countdown.php:205
+msgid "Widget Appearance"
+msgstr ""
+
+#: danixland-countdown.php:208
+msgid "Enable Widget Stylesheet?"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://danixland.net/?p=3330"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple plugin that shows a widget with a countdown"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Danilo 'danix' Macri"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://danixland.net"
+msgstr ""
