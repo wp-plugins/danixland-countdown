@@ -34,7 +34,7 @@ Otherwise follow these steps:
 You can disable the css stylesheet provided with the plugin, but it will also disable the use of the custom digital font shipped with it.
 If you want to override the css without disabling it you can edit the style of the div with id **#dnx-countdown**, it contains all the output by this plugin.
 
-= I like the font shipped with this plugin, can I use it somewhere else?
+= I like the font shipped with this plugin, can I use it somewhere else? =
 
 The font is free for home use, it was created for the shareware program Calculator-7 by http://www.styleseven.com/.
 It can be used in other projects as long as they are free, just by giving credit to the author at the website http://www.styleseven.com/
